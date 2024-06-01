@@ -5,4 +5,4 @@ Welcome to the SQL Case Studies repository. This repository contains a collectio
 2. Financial Transactions
 3. Healthcare Records
 4. Social Media Analytics
-5. Retail Inventory Management
+5. Retail Inventory Management System
