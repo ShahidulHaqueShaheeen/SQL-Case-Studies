@@ -6,3 +6,7 @@ Welcome to the SQL Case Studies repository. This repository contains a collectio
 3. Healthcare Records
 4. Social Media Analytics
 5. Retail Inventory Management System
+# Structure
+* Question
+* Query
+* Output
